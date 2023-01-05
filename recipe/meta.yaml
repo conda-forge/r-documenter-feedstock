@@ -14,7 +14,7 @@ source:
 
 build:
   merge_build_host: true  # [win]
-  number: 0
+  number: 1
   noarch: generic
   rpaths:
     - lib/R/lib/
@@ -29,14 +29,12 @@ requirements:
     - r-htmltools
     - r-magrittr
     - r-officer
-    - r-xml2
     - r-yaml
   run:
     - r-base
     - r-htmltools
     - r-magrittr
     - r-officer
-    - r-xml2
     - r-yaml
 
 test:
