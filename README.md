@@ -1,11 +1,11 @@
-About r-documenter
-==================
+About r-documenter-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-documenter-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=documenter
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-documenter-feedstock/blob/main/LICENSE.txt)
 
 Summary: It is sometimes necessary to create documentation for all files in a directory. Doing so by hand can be very tedious. This task is made fast and reproducible using the functionality of 'documenter'. It aggregates all text files in a directory and its subdirectories into a single word document in a semi-automated fashion.
 
